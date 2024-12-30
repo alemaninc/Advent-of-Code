@@ -1,7 +1,3 @@
-/*
-There is no part 2 for this one.
-Everything below `part1` is the beginning of a solution, but nothing genuinely useful.
-*/
 const AoC2024_24 = {
 	processInput:function(input=document.body.innerText) {
 		let out = {
